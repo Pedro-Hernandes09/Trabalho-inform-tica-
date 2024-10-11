@@ -36,3 +36,13 @@ Fonte de dados: http://catalogo.governoaberto.sp.gov.br/dataset/274-exames-labor
 
 
 ![image](https://github.com/user-attachments/assets/42af0935-42cd-47d2-8104-17238a9cdc73)
+
+### Graficos de power BI
+
+##
+Fonte de dados: https://dados.gov.br/home
+https://www.governoaberto.sp.gov.br/
+https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-campos
+https://www.sjc.sp.gov.br/servicos/governanca/portal-da-transparencia/,
+## Perguntas 
+1- 
